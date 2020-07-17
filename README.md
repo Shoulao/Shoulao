@@ -1,4 +1,5 @@
-![macbook-pro-retina-wallpaper-2880x1800-small-memory-lp-2880x1800](https://user-images.githubusercontent.com/28606968/87827932-2d50ee80-c87c-11ea-9d8c-0c638310aa2d.jpg)
+![logo-javascript-png-other-resolutions-240-240-pixels-240](https://user-images.githubusercontent.com/28606968/87828077-7d2fb580-c87c-11ea-9396-2de16d616c29.png)
+
 
 ### Hi there 👋
 
