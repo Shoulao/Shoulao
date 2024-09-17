@@ -1,7 +1,19 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1>Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Marcin, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Poznań, Poland</b>.</p>
-<h3>Things I code with</h3>
+<p>Welcome to my page! </br> I'm Marcin, JS developer from <b>Poznań, Poland</b>.</p>
+
+<p>
+As a developer with a strong passion for technology, I am continually focused
+on enhancing the quality of my code and embracing new advancements. 
+</p>
+<p>
+My expertise is currently directed towards react web application development,
+particularly in modularizing solutions. I play a key role in developing 
+component libraries and modules that facilitate the creation of new
+applications.
+</p>
+
+<b>Things I code with</b>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -15,5 +27,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+---
 
-
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23222831&textColor=%2306d6a0&aColor=%23007acd&borderColor=%23262c37&qColor=%23f9f9f9)
