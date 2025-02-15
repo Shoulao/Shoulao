@@ -8,9 +8,7 @@ on enhancing the quality of my code and embracing new advancements.
 </p>
 <p>
 My expertise is currently directed towards react web application development,
-particularly in modularizing solutions. I play a key role in developing 
-component libraries and modules that facilitate the creation of new
-applications.
+particularly in modularizing solutions. My current focus: Cybersecurity (Web Apps).
 </p>
 
 <b>Things I code with</b>
